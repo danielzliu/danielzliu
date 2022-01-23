@@ -1,6 +1,6 @@
 ### Welcome to my github! 👋
 
-I am currently a student pursuing my Master's degree in Applied Mathematics at KTH Royal Institute of Technology. I am interested in solving complex mathematical problems using models and algorhitms. I am especially interested in operations research and financial simulation.
+I am currently a student pursuing my Master's degree in **Applied Mathematics at KTH Royal Institute of Technology**. I am interested in solving complex mathematical problems using models and algorhitms, with a special interest in **Operations Research and Financial Simulation**. This github page is a compilation of some of the projects I have been working on at school or on my spare time. Hope you enjoy!
 
 <!--
 **danielzliu/danielzliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
