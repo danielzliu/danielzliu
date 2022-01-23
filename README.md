@@ -11,6 +11,8 @@ I am currently a student pursuing my Master's degree in **Applied Mathematics at
 [<img align="left" alt="R" width="26px" src="https://github.com/danielzliu/danielzliu/blob/main/images/r.png" />]()
 [<img align="left" alt="Excel" width="26px" src="https://github.com/danielzliu/danielzliu/blob/main/images/excel.png" />]()
 
+[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=KodAgge&layout=compact&hide=jupyter%20notebook&include_all_commits=true&count_private=true&title_color=000000)](https://github.com/danielzliu/)
+
 <!--
 **danielzliu/danielzliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
